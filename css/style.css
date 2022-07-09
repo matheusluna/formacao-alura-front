@@ -1,9 +1,16 @@
-body {
-    background: #CCCCCC;
-}
-
 h1 {
     text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
 }
 
 p {
@@ -20,4 +27,22 @@ em strong {
 
 #banner {
     width: 100%;
+}
+
+.principal {
+    background: #CCCCCC;
+    padding: 30px;
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.img_beneficios {
+    width: 50%;
 }
