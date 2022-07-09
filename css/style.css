@@ -1,8 +1,8 @@
-h1 {
-    text-align: center;
+.titulo-principal {
+    padding-left: 20px;
 }
 
-h2 {
+.titulo-centralizado {
     text-align: center;
 }
 
